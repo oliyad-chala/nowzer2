@@ -4,18 +4,7 @@ import { useState, useEffect } from "react"
 import { AnnouncementsFilter } from "@/components/announcements/announcements-filter"
 import { AnnouncementsList } from "@/components/announcements/announcements-list"
 import { Megaphone } from "lucide-react"
-
-interface Announcement {
-  id: number
-  title: string
-  excerpt: string
-  content: string
-  category: string
-  date: string
-  author: string
-  priority: "high" | "medium" | "low"
-  published: boolean
-}
+import { Announcement } from "@/lib/data-store"
 
 export default function AnnouncementsPage() {
   const [announcements, setAnnouncements] = useState<Announcement[]>([])
@@ -101,7 +90,7 @@ export default function AnnouncementsPage() {
         </div>
 
         {/* Announcements List */}
-        <AnnouncementsList announcements={filteredAnnouncements} loading={loading} />
+        <AnnouncementsList announcements={filteredAnnouncements} isLoading={loading} />
       </div>
     </div>
   )

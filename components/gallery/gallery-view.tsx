@@ -81,7 +81,7 @@ export function GalleryView() {
     setSelectedType("all")
   }
 
-  const hasActiveFilters = searchTerm || selectedCategory !== "all" || selectedYear !== "all" || selectedType !== "all"
+  const hasActiveFilters: boolean = !!searchTerm || selectedCategory !== "all" || selectedYear !== "all" || selectedType !== "all"
 
   return (
     <div className="space-y-6">

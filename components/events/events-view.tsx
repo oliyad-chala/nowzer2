@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { Event } from '@/lib/data-store'
 import { EventsList } from './events-list'
 import { EventsCalendar } from './events-calendar'
 import { EventsFilter } from './events-filter'
@@ -8,10 +9,10 @@ import { Calendar, List } from 'lucide-react'
 
 export function EventsView() {
   const [viewMode, setViewMode] = useState<'list' | 'calendar'>('list')
-  const [events, setEvents] = useState([])
-  const [filteredEvents, setFilteredEvents] = useState([])
+  const [events, setEvents] = useState<Event[]>([])
+  const [filteredEvents, setFilteredEvents] = useState<Event[]>([])
   const [loading, setLoading] = useState(true)
-  const [filters, setFilters] = useState({ category: 'All', search: '' })
+  const [filters, setFilters] = useState<{ category: string; search: string }>({ category: 'All', search: '' })
 
   useEffect(() => {
     const fetchEvents = async () => {

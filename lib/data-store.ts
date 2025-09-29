@@ -8,6 +8,7 @@ interface Announcement {
   featured: boolean
   author: string
   published: boolean
+  urgent?: boolean
   updatedAt: string
   createdAt: string
 }
