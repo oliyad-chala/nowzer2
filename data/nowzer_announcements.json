@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "title": "Fall Sports Registration Now Open",
+    "excerpt": "Registration is now open for all fall sports including soccer, volleyball, and cross country.",
+    "content": "Attention all student athletes! Registration for fall sports is now open. We offer soccer, volleyball, cross country, and tennis programs for various grade levels. All interested students must complete the registration form and submit required medical documentation by August 25th.",
+    "category": "Sports",
+    "date": "2024-08-05",
+    "author": "Coach Michael Rodriguez",
+    "published": true,
+    "featured": false,
+    "updatedAt": "2024-08-05T16:45:00Z",
+    "createdAt": "2024-08-05T16:45:00Z"
+  },
+  {
+    "title": "gdfgd",
+    "content": "fgdfgdfg",
+    "excerpt": "oliyad",
+    "category": "Academic",
+    "featured": true,
+    "date": "2025-09-29",
+    "id": 4,
+    "updatedAt": "2025-09-29T15:39:59.123Z",
+    "createdAt": "2025-09-29T15:39:59.123Z"
+  }
+]

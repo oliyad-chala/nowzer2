@@ -1,0 +1,121 @@
+[
+  {
+    "id": 15,
+    "type": "gallery",
+    "action": "created",
+    "title": "fdsdf",
+    "timestamp": "2025-09-29T15:40:14.438Z",
+    "user": "Admin"
+  },
+  {
+    "id": 14,
+    "type": "gallery",
+    "action": "created",
+    "title": "fdsdf",
+    "timestamp": "2025-09-29T15:40:14.431Z",
+    "user": "Admin"
+  },
+  {
+    "id": 13,
+    "type": "announcement",
+    "action": "created",
+    "title": "gdfgd",
+    "timestamp": "2025-09-29T15:39:59.124Z"
+  },
+  {
+    "id": 12,
+    "type": "event",
+    "action": "created",
+    "title": "oliyad",
+    "timestamp": "2025-09-29T15:38:57.323Z",
+    "user": "Admin"
+  },
+  {
+    "id": 11,
+    "type": "gallery",
+    "action": "deleted",
+    "title": "Graduation Ceremony 2024",
+    "timestamp": "2025-09-29T15:37:32.476Z",
+    "user": "Admin"
+  },
+  {
+    "id": 10,
+    "type": "announcement",
+    "action": "deleted",
+    "title": "New Science Lab Equipment Installed",
+    "timestamp": "2025-09-29T15:37:08.874Z",
+    "user": "Admin"
+  },
+  {
+    "id": 9,
+    "type": "event",
+    "action": "deleted",
+    "title": "Annual Science Fair",
+    "timestamp": "2025-09-29T15:37:02.351Z",
+    "user": "Admin"
+  },
+  {
+    "id": 8,
+    "type": "announcement",
+    "action": "updated",
+    "title": "Site Settings",
+    "timestamp": "2025-09-29T15:36:46.008Z",
+    "user": "Admin"
+  },
+  {
+    "id": 7,
+    "type": "announcement",
+    "action": "deleted",
+    "title": "Welcome Back to School 2024-2025",
+    "timestamp": "2025-09-29T15:36:02.467Z",
+    "user": "Admin"
+  },
+  {
+    "id": 6,
+    "type": "event",
+    "action": "deleted",
+    "title": "Back to School Night",
+    "timestamp": "2025-09-29T15:35:57.900Z",
+    "user": "Admin"
+  },
+  {
+    "id": 5,
+    "type": "event",
+    "action": "deleted",
+    "title": "Annual Science Fair",
+    "timestamp": "2025-09-29T15:35:52.474Z",
+    "user": "Admin"
+  },
+  {
+    "id": 4,
+    "type": "gallery",
+    "action": "created",
+    "title": "ssadsdad",
+    "timestamp": "2025-09-29T15:35:00.689Z",
+    "user": "Admin"
+  },
+  {
+    "id": 3,
+    "type": "gallery",
+    "action": "created",
+    "title": "ssadsdad",
+    "timestamp": "2025-09-29T15:35:00.681Z",
+    "user": "Admin"
+  },
+  {
+    "id": 1,
+    "type": "announcement",
+    "action": "created",
+    "title": "Welcome Back to School 2024-2025",
+    "timestamp": "2024-08-15T10:30:00Z",
+    "user": "Dr. Sarah Johnson"
+  },
+  {
+    "id": 2,
+    "type": "event",
+    "action": "created",
+    "title": "Annual Science Fair",
+    "timestamp": "2024-08-14T14:20:00Z",
+    "user": "Mr. David Chen"
+  }
+]

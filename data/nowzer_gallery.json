@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2,
+    "title": "Science Fair Highlights",
+    "description": "Amazing projects and discoveries from our young scientists.",
+    "type": "video",
+    "thumbnail": "/science-fair-video.png",
+    "image": "/science-fair-video.png",
+    "imageUrl": "/science-fair-video.png",
+    "duration": "3:45",
+    "category": "academic",
+    "year": "2024",
+    "date": "2024-05-20",
+    "featured": true,
+    "updatedAt": "2024-05-20T14:30:00Z",
+    "createdAt": "2024-05-20T14:30:00Z"
+  },
+  {
+    "title": "ssadsdad",
+    "description": "asdasdad",
+    "imageUrl": "/uploads/gallery-1759160100441.png",
+    "category": "events",
+    "year": "2025",
+    "type": "photo",
+    "featured": true,
+    "id": 3,
+    "date": "2025-09-29",
+    "updatedAt": "2025-09-29T15:35:00.681Z",
+    "createdAt": "2025-09-29T15:35:00.681Z",
+    "image": "/uploads/gallery-1759160100441.png",
+    "thumbnail": "/uploads/gallery-1759160100441.png",
+    "photos": 1
+  },
+  {
+    "title": "fdsdf",
+    "description": "sdfsdfa",
+    "imageUrl": "/uploads/gallery-1759160414180.jpeg",
+    "category": "events",
+    "year": "2025",
+    "type": "photo",
+    "featured": true,
+    "id": 4,
+    "date": "2025-09-29",
+    "updatedAt": "2025-09-29T15:40:14.430Z",
+    "createdAt": "2025-09-29T15:40:14.430Z",
+    "image": "/uploads/gallery-1759160414180.jpeg",
+    "thumbnail": "/uploads/gallery-1759160414180.jpeg",
+    "photos": 1
+  }
+]

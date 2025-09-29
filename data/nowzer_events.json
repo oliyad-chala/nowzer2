@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Back to School Night",
+    "description": "Meet your child's teachers and learn about the curriculum for the upcoming year.",
+    "date": "2024-09-15",
+    "time": "6:00 PM",
+    "location": "Main Auditorium",
+    "category": "Academic",
+    "image": "/parent-teacher-conference.png",
+    "registrationRequired": true,
+    "currentAttendees": 0,
+    "featured": true,
+    "updatedAt": "2024-08-15T10:30:00Z",
+    "createdAt": "2024-08-15T10:30:00Z"
+  },
+  {
+    "title": "oliyad",
+    "description": "dfasdf",
+    "date": "2025-09-18",
+    "time": "17:35",
+    "location": "dsfsdfsdf",
+    "category": "Academic",
+    "featured": true,
+    "id": 3,
+    "updatedAt": "2025-09-29T15:38:57.323Z",
+    "createdAt": "2025-09-29T15:38:57.323Z",
+    "registrationRequired": false,
+    "currentAttendees": 0
+  }
+]
